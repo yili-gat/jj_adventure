@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_5","characterIndex":0,"characterName":"People4","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"People4","traits":[],"initialLevel":1,"maxLevel":99,"name":"Justin","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor2_4","characterIndex":1,"characterName":"People4","classId":2,"equips":[2,1,2,3,0],"faceIndex":1,"faceName":"People4","traits":[],"initialLevel":1,"maxLevel":99,"name":"Milla","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor3_7","characterIndex":3,"characterName":"People4","classId":3,"equips":[3,0,2,3,4],"faceIndex":3,"faceName":"People4","traits":[],"initialLevel":1,"maxLevel":99,"name":"Mia","nickname":"","note":"","profile":""}
+]
